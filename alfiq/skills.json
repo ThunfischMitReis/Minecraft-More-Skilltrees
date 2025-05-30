@@ -1,0 +1,464 @@
+{
+	"19aazycn9ii0lfh1": {
+		"definition": "attack_damage+3%",
+		"x": 0,
+		"y": 352,
+		"root": true
+	},
+	"ykn32h02xhgaujyr": {
+		"definition": "attack_speed+5%",
+		"x": -96,
+		"y": 320,
+		"root": true
+	},
+	"tznvsi9aenb4bn73": {
+		"definition": "movement_speed+5%",
+		"x": 96,
+		"y": 320,
+		"root": true
+	},
+	"9bfflz8o0fg3mxwb": {
+		"definition": "movement_speed+5%",
+		"x": 160,
+		"y": 288,
+		"root": false
+	},
+	"cl4kfdoe9imtsswk": {
+		"definition": "movement_speed+5%",
+		"x": 224,
+		"y": 224,
+		"root": false
+	},
+	"hgfdndboqadmbqoh": {
+		"definition": "movement_speed+5%",
+		"x": 288,
+		"y": 160,
+		"root": false
+	},
+	"qurdu9jfhinam9k9": {
+		"definition": "movement_speed+5%",
+		"x": 320,
+		"y": 64,
+		"root": false
+	},
+	"g3ekzvdvojcwewq9": {
+		"definition": "movement_speed+5%",
+		"x": 320,
+		"y": -64,
+		"root": false
+	},
+	"wemy0mc2xq7ryzhu": {
+		"definition": "movement_speed+5%",
+		"x": 352,
+		"y": -128,
+		"root": false
+	},
+	"uchq1h59cd2v7dse": {
+		"definition": "movement_speed+5%",
+		"x": 352,
+		"y": -224,
+		"root": false
+	},
+	"i24a46gy88rzwjxn": {
+		"definition": "movement_speed+5%",
+		"x": 352,
+		"y": -320,
+		"root": false
+	},
+	"et94ypfp133clx38": {
+		"definition": "attack_reach+1",
+		"x": 320,
+		"y": -384,
+		"root": false
+	},
+	"9mffc3trj4k5hkqu": {
+		"definition": "attack_reach+1",
+		"x": -320,
+		"y": -384,
+		"root": false
+	},
+	"45w4jp2xgnx6ehxq": {
+		"definition": "attack_speed+5%",
+		"x": -160,
+		"y": 288,
+		"root": false
+	},
+	"c1lnyh7hc2q1m95r": {
+		"definition": "attack_speed+5%",
+		"x": -224,
+		"y": 224,
+		"root": false
+	},
+	"jklps2alzp7f6qt2": {
+		"definition": "attack_speed+5%",
+		"x": -288,
+		"y": 160,
+		"root": false
+	},
+	"3m13853xoda7wryi": {
+		"definition": "attack_speed+5%",
+		"x": -320,
+		"y": 64,
+		"root": false
+	},
+	"npqz981y3heol0w2": {
+		"definition": "attack_speed+5%",
+		"x": -320,
+		"y": -64,
+		"root": false
+	},
+	"f2xy7x3ca5td9gfx": {
+		"definition": "attack_speed+5%",
+		"x": -352,
+		"y": -128,
+		"root": false
+	},
+	"e01lfyfjlote3rsc": {
+		"definition": "attack_speed+5%",
+		"x": -352,
+		"y": -224,
+		"root": false
+	},
+	"eksloziy3tox1wkd": {
+		"definition": "attack_speed+5%",
+		"x": -352,
+		"y": -320,
+		"root": false
+	},
+	"qqbe80ydqpphjtpn": {
+		"definition": "attack_speed+5%",
+		"x": -256,
+		"y": -352,
+		"root": false
+	},
+	"yzqw8aon0roz7x91": {
+		"definition": "attack_speed+5%",
+		"x": -192,
+		"y": -288,
+		"root": false
+	},
+	"poo47akvlw2rncgb": {
+		"definition": "attack_speed+5%",
+		"x": -160,
+		"y": -256,
+		"root": false
+	},
+	"fkh4yot08oaszupd": {
+		"definition": "attack_speed+5%",
+		"x": -64,
+		"y": -224,
+		"root": false
+	},
+	"2p4dvhumt0r7dsc3": {
+		"definition": "attack_damage+3%",
+		"x": 0,
+		"y": -256,
+		"root": false
+	},
+	"ysvxushl87zygwex": {
+		"definition": "movement_speed+5%",
+		"x": 256,
+		"y": -352,
+		"root": false
+	},
+	"pdf1facuhv8t32yr": {
+		"definition": "movement_speed+5%",
+		"x": 64,
+		"y": -224,
+		"root": false
+	},
+	"8slhj0hgz3h7rnik": {
+		"definition": "movement_speed+5%",
+		"x": 160,
+		"y": -256,
+		"root": false
+	},
+	"se3rrehb1scwmt6k": {
+		"definition": "movement_speed+5%",
+		"x": 192,
+		"y": -288,
+		"root": false
+	},
+	"dzkgmt11yw1c2cun": {
+		"definition": "movement_speed+5%",
+		"x": 288,
+		"y": -288,
+		"root": false
+	},
+	"nv4zg21pc5450kb5": {
+		"definition": "movement_speed+5%",
+		"x": 256,
+		"y": -256,
+		"root": false
+	},
+	"rumon9dikmf9ww74": {
+		"definition": "movement_speed+5%",
+		"x": 224,
+		"y": -224,
+		"root": false
+	},
+	"hjy71u1vw8r26gxd": {
+		"definition": "movement_speed+5%",
+		"x": 224,
+		"y": -192,
+		"root": false
+	},
+	"uscs3nh79t7d2hsc": {
+		"definition": "movement_speed+5%",
+		"x": 224,
+		"y": -160,
+		"root": false
+	},
+	"6kx7tun36yswwea1": {
+		"definition": "attack_speed+5%",
+		"x": -288,
+		"y": -288,
+		"root": false
+	},
+	"knswamm725wxczll": {
+		"definition": "attack_speed+5%",
+		"x": -256,
+		"y": -256,
+		"root": false
+	},
+	"ydo2tqa6l0fju3cr": {
+		"definition": "attack_speed+5%",
+		"x": -224,
+		"y": -224,
+		"root": false
+	},
+	"yjr1zwnpkk008x73": {
+		"definition": "attack_speed+5%",
+		"x": -224,
+		"y": -192,
+		"root": false
+	},
+	"0bjag1wzxcdfffnv": {
+		"definition": "attack_speed+5%",
+		"x": -224,
+		"y": -160,
+		"root": false
+	},
+	"0qlhdqak1yswczpc": {
+		"definition": "attack_damage+3%",
+		"x": 0,
+		"y": 256,
+		"root": false
+	},
+	"nb28pb1zqszfym32": {
+		"definition": "attack_damage+3%",
+		"x": 32,
+		"y": 192,
+		"root": false
+	},
+	"gyc0ftex9y2vx358": {
+		"definition": "attack_damage+3%",
+		"x": -32,
+		"y": 192,
+		"root": false
+	},
+	"5asssszggtgqq350": {
+		"definition": "attack_damage+3%",
+		"x": -32,
+		"y": 224,
+		"root": false
+	},
+	"s1iyijq2fciap7bw": {
+		"definition": "attack_damage+3%",
+		"x": 32,
+		"y": 224,
+		"root": false
+	},
+	"e26gexr6152oui9y": {
+		"definition": "attack_damage+3%",
+		"x": 0,
+		"y": 288,
+		"root": false
+	},
+	"437fz7ccu1lrfq4b": {
+		"definition": "attack_damage+3%",
+		"x": -96,
+		"y": -32,
+		"root": false
+	},
+	"rhkjrrwsnru2d531": {
+		"definition": "attack_damage+3%",
+		"x": 96,
+		"y": -32,
+		"root": false
+	},
+	"lbic6us17zbvm1s9": {
+		"definition": "attack_damage+3%",
+		"x": -32,
+		"y": -160,
+		"root": false
+	},
+	"dbwn5uknxwazfy5s": {
+		"definition": "attack_damage+3%",
+		"x": 32,
+		"y": -160,
+		"root": false
+	},
+	"zoara3wovfwy1d7w": {
+		"definition": "attack_damage+3%",
+		"x": 0,
+		"y": -32,
+		"root": false
+	},
+	"fmlo2ehfc4jvdjt3": {
+		"definition": "attack_damage+3%",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"viics3aeu7ylnutg": {
+		"definition": "attack_damage+3%",
+		"x": -224,
+		"y": 32,
+		"root": false
+	},
+	"3kr0x4qxto6pps2h": {
+		"definition": "attack_damage+3%",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"u15xfbsqn3zyzalb": {
+		"definition": "attack_damage+3%",
+		"x": -96,
+		"y": 32,
+		"root": false
+	},
+	"4edg1xjdmpo2li1g": {
+		"definition": "attack_damage+3%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"66jmmon0ow1pob8h": {
+		"definition": "attack_damage+3%",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"uie3cknhc85y1l32": {
+		"definition": "attack_damage+3%",
+		"x": 192,
+		"y": 64,
+		"root": false
+	},
+	"zazevho7u6o3y582": {
+		"definition": "attack_damage+3%",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"hqi7g3i44ig4vyj9": {
+		"definition": "attack_damage+3%",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"li4bypoz4v8exq3u": {
+		"definition": "attack_damage+3%",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"ai8wnjte2q1uhqmg": {
+		"definition": "attack_damage+3%",
+		"x": 96,
+		"y": 32,
+		"root": false
+	},
+	"2ll11u7s57a8hrs5": {
+		"definition": "attack_damage+3%",
+		"x": 224,
+		"y": 32,
+		"root": false
+	},
+	"xik8n4fvljkt9fra": {
+		"definition": "attack_speed+5%",
+		"x": -224,
+		"y": -32,
+		"root": false
+	},
+	"dahnjypohvm9yeph": {
+		"definition": "attack_speed+5%",
+		"x": -64,
+		"y": -96,
+		"root": false
+	},
+	"a8loihq4cucc2kxy": {
+		"definition": "movement_speed+5%",
+		"x": 64,
+		"y": -96,
+		"root": false
+	},
+	"xzugmt31h8evjsgw": {
+		"definition": "movement_speed+5%",
+		"x": 224,
+		"y": -32,
+		"root": false
+	},
+	"9xy2zz2ng4fqegdf": {
+		"definition": "movement_speed+5%",
+		"x": 160,
+		"y": -192,
+		"root": false
+	},
+	"xzs1u35cj10h62wk": {
+		"definition": "movement_speed+5%",
+		"x": 192,
+		"y": -128,
+		"root": false
+	},
+	"j1bfvosi23gkgyl5": {
+		"definition": "movement_speed+5%",
+		"x": 256,
+		"y": -96,
+		"root": false
+	},
+	"vvnq81pvghwipwqg": {
+		"definition": "attack_speed+5%",
+		"x": -256,
+		"y": -96,
+		"root": false
+	},
+	"kkhhd5ozrfzpdqkq": {
+		"definition": "attack_speed+5%",
+		"x": -192,
+		"y": -128,
+		"root": false
+	},
+	"9tvobphd4t08vct0": {
+		"definition": "attack_speed+5%",
+		"x": -160,
+		"y": -192,
+		"root": false
+	},
+	"9on29snc2pwgitsh": {
+		"definition": "attack_speed+5%",
+		"x": -64,
+		"y": 288,
+		"root": false
+	},
+	"lv0860s578m2x7ef": {
+		"definition": "movement_speed+5%",
+		"x": 64,
+		"y": 288,
+		"root": false
+	},
+	"hm9s790v584x4f52": {
+		"definition": "movement_speed+5%",
+		"x": 128,
+		"y": 224,
+		"root": false
+	},
+	"t9enqa2juprigf5s": {
+		"definition": "attack_speed+5%",
+		"x": -128,
+		"y": 224,
+		"root": false
+	}
+}
