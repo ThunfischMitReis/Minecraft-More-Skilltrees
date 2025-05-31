@@ -1,0 +1,495 @@
+[
+  // WARRIOR
+  {
+    "attribute": "generic.attack_damage",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "warrior:attack+3%",
+    "uuid": "11111111-0000-0000-0000-000000000001"
+  },
+  {
+    "attribute": "generic.armor",
+    "operation": "addition",
+    "amount": 1,
+    "slot": "any",
+    "name": "warrior:armor+1",
+    "uuid": "11111111-0000-0000-0000-000000000002"
+  },
+  {
+    "attribute": "generic.max_health",
+    "operation": "addition",
+    "amount": 1,
+    "slot": "any",
+    "name": "warrior:health+1",
+    "uuid": "11111111-0000-0000-0000-000000000003"
+  },
+
+  // ROGUE
+  {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_total",
+    "amount": 0.05,
+    "slot": "any",
+    "name": "rogue:speed+5%",
+    "uuid": "11111111-0000-0000-0000-000000000004"
+  },
+  {
+    "attribute": "crit_chance",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "rogue:crit+10%",
+    "uuid": "11111111-0000-0000-0000-000000000005"
+  },
+  {
+    "attribute": "dodge_chance",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "rogue:evade+10%",
+    "uuid": "11111111-0000-0000-0000-000000000006"
+  },
+
+  // ARCHER
+  {
+    "attribute": "bow_damage",
+    "operation": "multiply_total",
+    "amount": 0.07,
+    "slot": "any",
+    "name": "archer:bow_damage+7%",
+    "uuid": "11111111-0000-0000-0000-000000000007"
+  },
+  {
+    "attribute": "bow_draw_speed",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "archer:draw_speed+10%",
+    "uuid": "11111111-0000-0000-0000-000000000008"
+  },
+  {
+    "attribute": "bow_range",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "archer:range+10%",
+    "uuid": "11111111-0000-0000-0000-000000000009"
+  },
+
+  // CLERIC
+  {
+    "attribute": "healing_power",
+    "operation": "multiply_total",
+    "amount": 0.07,
+    "slot": "any",
+    "name": "cleric:healing+7%",
+    "uuid": "11111111-0000-0000-0000-00000000000A"
+  },
+  {
+    "attribute": "magic_resistance",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "cleric:magic_resist+3%",
+    "uuid": "11111111-0000-0000-0000-00000000000B"
+  },
+  {
+    "attribute": "experience_gain",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "cleric:exp+3%",
+    "uuid": "11111111-0000-0000-0000-00000000000C"
+  },
+
+  // PALADIN
+  {
+    "attribute": "generic.armor",
+    "operation": "addition",
+    "amount": 2,
+    "slot": "any",
+    "name": "paladin:armor+2",
+    "uuid": "11111111-0000-0000-0000-00000000000D"
+  },
+  {
+    "attribute": "generic.attack_damage",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "paladin:attack+3%",
+    "uuid": "11111111-0000-0000-0000-00000000000E"
+  },
+  {
+    "attribute": "generic.max_health",
+    "operation": "addition",
+    "amount": 2,
+    "slot": "any",
+    "name": "paladin:health+2",
+    "uuid": "11111111-0000-0000-0000-00000000000F"
+  },
+
+  // WIZARD
+  {
+    "attribute": "magic_damage",
+    "operation": "multiply_total",
+    "amount": 0.07,
+    "slot": "any",
+    "name": "wizard:magic+7%",
+    "uuid": "11111111-0000-0000-0000-000000000010"
+  },
+  {
+    "attribute": "mana_regen",
+    "operation": "multiply_total",
+    "amount": 0.15,
+    "slot": "any",
+    "name": "wizard:mana_regen+15%",
+    "uuid": "11111111-0000-0000-0000-000000000011"
+  },
+  {
+    "attribute": "magic_resistance",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "wizard:magic_resist+10%",
+    "uuid": "11111111-0000-0000-0000-000000000012"
+  },
+
+  // BARD
+  {
+    "attribute": "experience_gain",
+    "operation": "multiply_total",
+    "amount": 0.07,
+    "slot": "any",
+    "name": "bard:exp+7%",
+    "uuid": "11111111-0000-0000-0000-000000000013"
+  },
+  {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_total",
+    "amount": 0.05,
+    "slot": "any",
+    "name": "bard:move_speed+5%",
+    "uuid": "11111111-0000-0000-0000-000000000014"
+  },
+  {
+    "attribute": "villager_discount",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "bard:villager_discount+3%",
+    "uuid": "11111111-0000-0000-0000-000000000015"
+  },
+
+  // BLACKSMITH
+  {
+    "attribute": "tool_durability",
+    "operation": "multiply_total",
+    "amount": 0.20,
+    "slot": "any",
+    "name": "blacksmith:tool_durability+20%",
+    "uuid": "11111111-0000-0000-0000-000000000016"
+  },
+  {
+    "attribute": "generic.armor",
+    "operation": "addition",
+    "amount": 1,
+    "slot": "any",
+    "name": "blacksmith:armor+1",
+    "uuid": "11111111-0000-0000-0000-000000000017"
+  },
+  {
+    "attribute": "generic.attack_damage",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "blacksmith:attack+3%",
+    "uuid": "11111111-0000-0000-0000-000000000018"
+  },
+
+  // MINER
+  {
+    "attribute": "mining_speed",
+    "operation": "multiply_total",
+    "amount": 0.05,
+    "slot": "any",
+    "name": "miner:mining_speed+5%",
+    "uuid": "11111111-0000-0000-0000-000000000019"
+  },
+  {
+    "attribute": "ore_xp_gain",
+    "operation": "multiply_total",
+    "amount": 0.15,
+    "slot": "any",
+    "name": "miner:exp_ores+15%",
+    "uuid": "11111111-0000-0000-0000-00000000001A"
+  },
+  {
+    "attribute": "generic.max_health",
+    "operation": "addition",
+    "amount": 2,
+    "slot": "any",
+    "name": "miner:health+2",
+    "uuid": "11111111-0000-0000-0000-00000000001B"
+  },
+
+  // CHEF
+  {
+    "attribute": "food_buff_duration",
+    "operation": "multiply_total",
+    "amount": 0.20,
+    "slot": "any",
+    "name": "chef:food_buff+20%",
+    "uuid": "11111111-0000-0000-0000-00000000001C"
+  },
+  {
+    "attribute": "hunger_consumption",
+    "operation": "multiply_total",
+    "amount": -0.10,
+    "slot": "any",
+    "name": "chef:hunger-10%",
+    "uuid": "11111111-0000-0000-0000-00000000001D"
+  },
+  {
+    "attribute": "food_regeneration",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "chef:regen+10%",
+    "uuid": "11111111-0000-0000-0000-00000000001E"
+  },
+
+  // FARMER
+  {
+    "attribute": "crop_growth_speed",
+    "operation": "multiply_total",
+    "amount": 0.15,
+    "slot": "any",
+    "name": "farmer:crop_growth+15%",
+    "uuid": "11111111-0000-0000-0000-00000000001F"
+  },
+  {
+    "attribute": "crop_yield",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "farmer:harvest+10%",
+    "uuid": "11111111-0000-0000-0000-000000000020"
+  },
+  {
+    "attribute": "farming_xp",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "farmer:exp+10%",
+    "uuid": "11111111-0000-0000-0000-000000000021"
+  },
+
+  // MERCHANT
+  {
+    "attribute": "villager_discount",
+    "operation": "multiply_total",
+    "amount": 0.15,
+    "slot": "any",
+    "name": "merchant:villager_discount+15%",
+    "uuid": "11111111-0000-0000-0000-000000000022"
+  },
+  {
+    "attribute": "sell_price",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "merchant:sell_price+10%",
+    "uuid": "11111111-0000-0000-0000-000000000023"
+  },
+  {
+    "attribute": "buy_discount",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "merchant:buy_discount+10%",
+    "uuid": "11111111-0000-0000-0000-000000000024"
+  },
+
+  // BEASTMASTER
+  {
+    "attribute": "wolf_damage",
+    "operation": "multiply_total",
+    "amount": 0.20,
+    "slot": "any",
+    "name": "beastmaster:wolf_damage+20%",
+    "uuid": "11111111-0000-0000-0000-000000000025"
+  },
+  {
+    "attribute": "tame_chance",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "beastmaster:tame_chance+10%",
+    "uuid": "11111111-0000-0000-0000-000000000026"
+  },
+  {
+    "attribute": "pet_max_health",
+    "operation": "addition",
+    "amount": 2,
+    "slot": "any",
+    "name": "beastmaster:pet_health+2",
+    "uuid": "11111111-0000-0000-0000-000000000027"
+  },
+
+  // FISHER
+  {
+    "attribute": "fishing_speed",
+    "operation": "multiply_total",
+    "amount": 0.15,
+    "slot": "any",
+    "name": "fisher:fish_speed+15%",
+    "uuid": "11111111-0000-0000-0000-000000000028"
+  },
+  {
+    "attribute": "fishing_luck",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "fisher:luck+10%",
+    "uuid": "11111111-0000-0000-0000-000000000029"
+  },
+  {
+    "attribute": "water_breathing",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "fisher:water_breathing+10%",
+    "uuid": "11111111-0000-0000-0000-00000000002A"
+  },
+
+  // HEALER
+  {
+    "attribute": "healing_power",
+    "operation": "multiply_total",
+    "amount": 0.12,
+    "slot": "any",
+    "name": "healer:healing+12%",
+    "uuid": "11111111-0000-0000-0000-00000000002B"
+  },
+  {
+    "attribute": "regeneration",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "healer:regen+10%",
+    "uuid": "11111111-0000-0000-0000-00000000002C"
+  },
+  {
+    "attribute": "revive_speed",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "healer:revive_speed+10%",
+    "uuid": "11111111-0000-0000-0000-00000000002D"
+  },
+
+  // ALCHEMIST
+  {
+    "attribute": "brewing_speed",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "alchemist:brew_speed+10%",
+    "uuid": "11111111-0000-0000-0000-00000000002E"
+  },
+  {
+    "attribute": "potion_duration",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "alchemist:potion_duration+10%",
+    "uuid": "11111111-0000-0000-0000-00000000002F"
+  },
+  {
+    "attribute": "potion_power",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "alchemist:potion_power+10%",
+    "uuid": "11111111-0000-0000-0000-000000000030"
+  },
+
+  // HUNTER
+  {
+    "attribute": "mob_attack_damage",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "hunter:attack+3%",
+    "uuid": "11111111-0000-0000-0000-000000000031"
+  },
+  {
+    "attribute": "mob_loot",
+    "operation": "multiply_total",
+    "amount": 0.10,
+    "slot": "any",
+    "name": "hunter:mob_loot+10%",
+    "uuid": "11111111-0000-0000-0000-000000000032"
+  },
+  {
+    "attribute": "bow_damage",
+    "operation": "multiply_total",
+    "amount": 0.03,
+    "slot": "any",
+    "name": "hunter:bow_damage+3%",
+    "uuid": "11111111-0000-0000-0000-000000000033"
+  },
+
+  // TANK
+  {
+    "attribute": "generic.armor",
+    "operation": "addition",
+    "amount": 3,
+    "slot": "any",
+    "name": "tank:armor+3",
+    "uuid": "11111111-0000-0000-0000-000000000034"
+  },
+  {
+    "attribute": "generic.knockback_resistance",
+    "operation": "multiply_total",
+    "amount": 0.20,
+    "slot": "any",
+    "name": "tank:knockback_resist+20%",
+    "uuid": "11111111-0000-0000-0000-000000000035"
+  },
+  {
+    "attribute": "generic.max_health",
+    "operation": "addition",
+    "amount": 2,
+    "slot": "any",
+    "name": "tank:health+2",
+    "uuid": "11111111-0000-0000-0000-000000000036"
+  },
+
+  // SCOUT
+  {
+    "attribute": "generic.movement_speed",
+    "operation": "multiply_total",
+    "amount": 0.07,
+    "slot": "any",
+    "name": "scout:speed+7%",
+    "uuid": "11111111-0000-0000-0000-000000000037"
+  },
+  {
+    "attribute": "generic.jump_strength",
+    "operation": "multiply_total",
+    "amount": 0.05,
+    "slot": "any",
+    "name": "scout:jump+5%",
+    "uuid": "11111111-0000-0000-0000-000000000038"
+  },
+  {
+    "attribute": "fall_damage_reduction",
+    "operation": "multiply_total",
+    "amount": 0.20,
+    "slot": "any",
+    "name": "scout:fall_damage-20%",
+    "uuid": "11111111-0000-0000-0000-000000000039"
+  }
+]
