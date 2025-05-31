@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": false,
+	"title": "Wizzard",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "stick"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

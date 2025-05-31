@@ -1,0 +1,1256 @@
+{
+	"warrior:attack+3%": {
+		"title": "+3% Attack Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0qzrpjtm78094y2e"
+		}
+	},
+	"warrior:armor+1": {
+		"title": "+1 Armor",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ubieubeyfj6cnay4"
+		}
+	},
+	"warrior:health+1": {
+		"title": "+0.5 Hearts",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "46d8wyx90de1dz86"
+		}
+	},
+	"rogue:speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "qjuv5w18mjuex2d4"
+		}
+	},
+	"rogue:crit+10%": {
+		"title": "+10% Crit Chance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "crit_chance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ge3ersiworu94t7a"
+		}
+	},
+	"rogue:evade+10%": {
+		"title": "+10% Dodge Chance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "rabbit_foot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "dodge_chance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0a6nohdj8izl36qz"
+		}
+	},
+	"archer:bow_damage+7%": {
+		"title": "+7% Bow Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "bow_damage",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ycpqxyle1u733syd"
+		}
+	},
+	"archer:draw_speed+10%": {
+		"title": "+10% Bow Draw Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "bow_draw_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0pe3m1eg3v79s5ow"
+		}
+	},
+	"archer:range+10%": {
+		"title": "+10% Arrow Range",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "bow_range",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ytm9e39s0x2otsp4"
+		}
+	},
+	"cleric:healing+10%": {
+		"title": "+10% Healing Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_apple"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "healing_power",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "35ortfarbhrwmu36"
+		}
+	},
+	"cleric:magic_resist+10%": {
+		"title": "+10% Magic Resistance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "blaze_powder"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "magic_resistance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "s17tccsnoozyyfq5"
+		}
+	},
+	"cleric:exp+10%": {
+		"title": "+10% XP Gain",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "experience_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "experience_gain",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "eq2shnty862qk5x1"
+		}
+	},
+	"paladin:armor+2": {
+		"title": "+2 Armor",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "tk7g81hnjrdov07o"
+		}
+	},
+	"paladin:attack+3%": {
+		"title": "+3% Attack Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "fi3pbqkbeq90drck"
+		}
+	},
+	"paladin:health+2": {
+		"title": "+1 Hearts",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pituhmja31qxloky"
+		}
+	},
+	"wizard:magic+7%": {
+		"title": "+7% Magic Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "ender_eye"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "magic_damage",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "12iumt0qno4b3on6"
+		}
+	},
+	"wizard:mana_regen+15%": {
+		"title": "+15% Mana Regeneration",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "experience_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "mana_regen",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0e3f518ub1y4jr1k"
+		}
+	},
+	"wizard:magic_resist+10%": {
+		"title": "+10% Magic Resistance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "blaze_powder"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "magic_resistance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "yshz2ilrl2sri69s"
+		}
+	},
+	"bard:exp+10%": {
+		"title": "+10% XP Gain",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "experience_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "experience_gain",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "hycbaz2d4kelyrn2"
+		}
+	},
+	"bard:move_speed+5%": {
+		"title": "+5% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "8stspw4quw0u2w3s"
+		}
+	},
+	"bard:villager_discount+10%": {
+		"title": "+10% Villager Discount",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "villager_discount",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "rrwuk67piqha3us0"
+		}
+	},
+	"blacksmith:tool_durability+20%": {
+		"title": "+20% Tool Durability",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "anvil"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "tool_durability",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "ta7fdp4aswlemnji"
+		}
+	},
+	"blacksmith:armor+1": {
+		"title": "+1 Armor",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "kpctel0wgyma9sbf"
+		}
+	},
+	"blacksmith:attack+3%": {
+		"title": "+3% Attack Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iron_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.attack_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "rszpll96p2n6ded2"
+		}
+	},
+	"miner:mining_speed+5%": {
+		"title": "+5% Mining Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_pickaxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "mining_speed",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "y8lk1cefyw0nxojg"
+		}
+	},
+	"miner:exp_ores+15%": {
+		"title": "+15% Ore XP Gain",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "diamond_ore"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "ore_xp_gain",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "t0so62uuk4laz0vy"
+		}
+	},
+	"miner:health+2": {
+		"title": "+1 Heart",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "j6pqh8brni5fyd94"
+		}
+	},
+	"chef:food_buff+20%": {
+		"title": "+20% Food Buff Duration",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cooked_beef"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "food_buff_duration",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "hbzwo274jbfhy5xz"
+		}
+	},
+	"chef:hunger-10%": {
+		"title": "-10% Hunger Consumption",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bread"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "hunger_consumption",
+					"value": -0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "mxudfq6j39m0zaop"
+		}
+	},
+	"chef:regen+10%": {
+		"title": "+10% Health Regen from Food",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "food_regeneration",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "7y5yo51vhoifzfy0"
+		}
+	},
+	"farmer:crop_growth+15%": {
+		"title": "+15% Crop Growth Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "wheat"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "crop_growth_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "h75ujflvmo1cfatk"
+		}
+	},
+	"farmer:harvest+10%": {
+		"title": "+10% Crop Yield",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "carrot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "crop_yield",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "jsp10egjpbbb7cku"
+		}
+	},
+	"farmer:exp+10%": {
+		"title": "+10% Farming XP",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bone_meal"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "farming_xp",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "x25v5hvl9wgsvqwr"
+		}
+	},
+	"merchant:villager_discount+15%": {
+		"title": "+15% Villager Discount",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "villager_discount",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "7yiakahu61jnflkk"
+		}
+	},
+	"merchant:sell_price+10%": {
+		"title": "+10% Sell Price",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "gold_ingot"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "sell_price",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "j7aluwi592azkfcy"
+		}
+	},
+	"merchant:buy_discount+10%": {
+		"title": "+10% Buy Discount",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "emerald"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "buy_discount",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "j0fomv229pplpj9j"
+		}
+	},
+	"beastmaster:wolf_damage+20%": {
+		"title": "+20% Wolf Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bone"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "wolf_damage",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "xufx8fcjzav0flvq"
+		}
+	},
+	"beastmaster:tame_chance+10%": {
+		"title": "+15% Tame Chance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "lead"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "tame_chance",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "oeda556q9fpvyhp4"
+		}
+	},
+	"beastmaster:pet_health+2": {
+		"title": "+1 Hearts for Pets",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "apple"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "pet_max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "0raznypyuns1kydw"
+		}
+	},
+	"fisher:fish_speed+15%": {
+		"title": "+15% Fishing Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "fishing_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "fishing_speed",
+					"value": 0.15,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "pe7bscq7sitmddjn"
+		}
+	},
+	"fisher:luck+10%": {
+		"title": "+10% Fishing Luck",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "fishing_luck",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "duywzfccxcc1e092"
+		}
+	},
+	"fisher:water_breathing+10%": {
+		"title": "+10% Water Breathing Duration",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "pufferfish"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "water_breathing",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "kdgb1ypg5h36rk1u"
+		}
+	},
+	"healer:healing+12%": {
+		"title": "+12% Healing Power",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "golden_apple"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "healing_power",
+					"value": 0.12,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "szr081nv6zi6fanl"
+		}
+	},
+	"healer:regen+10%": {
+		"title": "+10% Health Regen",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "regeneration"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "regeneration",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "hp9addozxgutxp6a"
+		}
+	},
+	"healer:revive_speed+10%": {
+		"title": "+10% Revive Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "totem_of_undying"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "revive_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "2u96dkmfxprihxmv"
+		}
+	},
+	"alchemist:brew_speed+10%": {
+		"title": "+10% Brewing Speed",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "potion"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "brewing_speed",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "02llwfkz8cx7yc13"
+		}
+	},
+	"alchemist:potion_duration+10%": {
+		"title": "+10% Potion Duration",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "potion"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "potion_duration",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "o48f0bppkfki03ry"
+		}
+	},
+	"alchemist:potion_power+10%": {
+		"title": "+10% Potion Strength",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "potion"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "potion_power",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "eiixqjnd49blqhfd"
+		}
+	},
+	"hunter:attack+3%": {
+		"title": "+3% Attack Damage vs. Mobs",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "mob_attack_damage",
+					"value": 0.03,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "vy66fwmsnw7aym1p"
+		}
+	},
+	"hunter:mob_loot+10%": {
+		"title": "+10% Mob Drop Rate",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bone"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "mob_loot",
+					"value": 0.1,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "94ps0q7g8vkceqjc"
+		}
+	},
+	"hunter:bow_damage+3%": {
+		"title": "+3% Bow Damage",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "bow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "bow_damage",
+					"value": 0.3,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "bliyxbk7kwd09u1m"
+		}
+	},
+	"tank:armor+3": {
+		"title": "+3 Armor",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "netherite_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.armor",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "npvjx1l2bgjgl65i"
+		}
+	},
+	"tank:knockback_resist+20%": {
+		"title": "+20% Knockback Resistance",
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "shield"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.knockback_resistance",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "vqospft8zug4m76u"
+		}
+	},
+	"tank:health+4": {
+		"title": "+2 Hearts",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "health_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.max_health",
+					"value": 4,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "01kf46ix6qzdj8vp"
+		}
+	},
+	"scout:speed+7%": {
+		"title": "+7% Movement Speed",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "speed"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.movement_speed",
+					"value": 0.07,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "zjvztvbjzqrl2rfx"
+		}
+	},
+	"scout:jump+5%": {
+		"title": "+5% Jump Height",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "jump_boost"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "generic.jump_strength",
+					"value": 0.05,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "sgjhnvgz9guacqtq"
+		}
+	},
+	"scout:fall_damage-20%": {
+		"title": "-20% Fall Damage",
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "slow_falling"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "fall_damage_reduction",
+					"value": 0.2,
+					"operation": "multiply_total"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "3315v1fqiss24n3i"
+		}
+	}
+}

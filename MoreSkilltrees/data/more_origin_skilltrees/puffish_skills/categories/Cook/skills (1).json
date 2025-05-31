@@ -1,0 +1,152 @@
+{
+	"1n7yhbwdxn1z0job": {
+		"definition": "chef:food_buff+20%",
+		"x": 0,
+		"y": -64,
+		"root": false
+	},
+	"46ls419kv89b554m": {
+		"definition": "chef:food_buff+20%",
+		"x": -192,
+		"y": -192,
+		"root": false
+	},
+	"umgtrtyme5g0et1h": {
+		"definition": "chef:food_buff+20%",
+		"x": 192,
+		"y": -192,
+		"root": false
+	},
+	"23uqa9tlvy0hpq6y": {
+		"definition": "chef:food_buff+20%",
+		"x": 192,
+		"y": 64,
+		"root": false
+	},
+	"zek2xsp825sk9zs0": {
+		"definition": "chef:food_buff+20%",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"k185lnu8vsgndbve": {
+		"definition": "chef:hunger-10%",
+		"x": -224,
+		"y": -64,
+		"root": false
+	},
+	"7z5vq9yinklwx9rn": {
+		"definition": "chef:regen+10%",
+		"x": -128,
+		"y": -256,
+		"root": false
+	},
+	"cyb57fxj8sfpx75q": {
+		"definition": "chef:regen+10%",
+		"x": 128,
+		"y": -256,
+		"root": false
+	},
+	"rqsls41qmgvrksjr": {
+		"definition": "chef:hunger-10%",
+		"x": 224,
+		"y": -64,
+		"root": false
+	},
+	"go4kgcov18vsgofn": {
+		"definition": "chef:hunger-10%",
+		"x": -96,
+		"y": -160,
+		"root": false
+	},
+	"fr7h28nw4rcod8hp": {
+		"definition": "chef:hunger-10%",
+		"x": 0,
+		"y": -288,
+		"root": false
+	},
+	"cevg53y47tcvvdhc": {
+		"definition": "chef:regen+10%",
+		"x": -128,
+		"y": 128,
+		"root": false
+	},
+	"3t8h776p6dyc9emy": {
+		"definition": "chef:regen+10%",
+		"x": 128,
+		"y": 128,
+		"root": false
+	},
+	"m3vor827s1g48e11": {
+		"definition": "chef:hunger-10%",
+		"x": 0,
+		"y": 160,
+		"root": false
+	},
+	"lomh4sa0tpegc5vw": {
+		"definition": "chef:regen+10%",
+		"x": -32,
+		"y": 384,
+		"root": false
+	},
+	"asco2wh11u2nedf1": {
+		"definition": "chef:regen+10%",
+		"x": 32,
+		"y": 384,
+		"root": false
+	},
+	"1c9yjqno3phvbv8x": {
+		"definition": "chef:regen+10%",
+		"x": -32,
+		"y": 160,
+		"root": false
+	},
+	"z6efe1yod8dksm3j": {
+		"definition": "chef:regen+10%",
+		"x": 32,
+		"y": 160,
+		"root": false
+	},
+	"hy4osvg0ef69hewf": {
+		"definition": "chef:regen+10%",
+		"x": -96,
+		"y": 64,
+		"root": false
+	},
+	"7qfp93youygtqmga": {
+		"definition": "chef:hunger-10%",
+		"x": -160,
+		"y": -64,
+		"root": false
+	},
+	"0euvwgtcxvqxi9yf": {
+		"definition": "chef:hunger-10%",
+		"x": 96,
+		"y": 64,
+		"root": false
+	},
+	"e3xsddfpbupaqbi5": {
+		"definition": "chef:hunger-10%",
+		"x": 160,
+		"y": -64,
+		"root": false
+	},
+	"b4t9h8lk9ollmpct": {
+		"definition": "chef:regen+10%",
+		"x": 96,
+		"y": -160,
+		"root": false
+	},
+	"zd4azdviu2qs8cy0": {
+		"definition": "chef:hunger-10%",
+		"x": -32,
+		"y": 288,
+		"root": false
+	},
+	"abiezdkapch7ig36": {
+		"definition": "chef:hunger-10%",
+		"x": 32,
+		"y": 288,
+		"root": false
+	}
+}

@@ -1,0 +1,152 @@
+{
+	"v5jivj22v89lk2kj": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -32,
+		"y": -256,
+		"root": false
+	},
+	"dkl5stqr3gtfo2v4": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 32,
+		"y": -256,
+		"root": false
+	},
+	"26vf97ixz44c8cbc": {
+		"definition": "beastmaster:pet_health+2",
+		"x": -224,
+		"y": -288,
+		"root": false
+	},
+	"e2su4vomk7fwg8sb": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 224,
+		"y": -96,
+		"root": false
+	},
+	"ou7u8pr4b15c0fzz": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 192,
+		"y": -160,
+		"root": false
+	},
+	"ewxxwhg0rqnykzmq": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"9k85e31s0du9qejn": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 0,
+		"y": 32,
+		"root": false
+	},
+	"od6yz6pvk9bkwurb": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 0,
+		"y": -64,
+		"root": false
+	},
+	"5olua04s597kj4bd": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 224,
+		"y": 0,
+		"root": false
+	},
+	"e9a30dltea0s9jak": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 96,
+		"y": 192,
+		"root": false
+	},
+	"z8uqhu229yvwooeg": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 160,
+		"y": 128,
+		"root": false
+	},
+	"cr6oov3bkfhepp6l": {
+		"definition": "beastmaster:tame_chance+10%",
+		"x": 32,
+		"y": 96,
+		"root": false
+	},
+	"fctwadnpzbu5yeu8": {
+		"definition": "beastmaster:pet_health+2",
+		"x": -96,
+		"y": -96,
+		"root": false
+	},
+	"7szf9zg05lv2slz8": {
+		"definition": "beastmaster:pet_health+2",
+		"x": 96,
+		"y": -96,
+		"root": false
+	},
+	"8d0qf03ao45kq4kq": {
+		"definition": "beastmaster:pet_health+2",
+		"x": 224,
+		"y": -288,
+		"root": false
+	},
+	"zlduupyedb9cf8oj": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -224,
+		"y": 0,
+		"root": false
+	},
+	"f0aqnkh2gq9l22gv": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"9q77q3xlbu9xyykr": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -192,
+		"y": -160,
+		"root": false
+	},
+	"z3fnx6c1x3n8clj1": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -224,
+		"y": -96,
+		"root": false
+	},
+	"0otqb4lmihjkbegi": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -96,
+		"y": 192,
+		"root": false
+	},
+	"obum4dmrrzf9cgh9": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -160,
+		"y": 128,
+		"root": false
+	},
+	"ja7l1vsfdait2y6c": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -32,
+		"y": 0,
+		"root": false
+	},
+	"3sr40flb0ijho84o": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": -32,
+		"y": 96,
+		"root": false
+	},
+	"assl834v5hepcu98": {
+		"definition": "beastmaster:wolf_damage+20%",
+		"x": 32,
+		"y": 0,
+		"root": false
+	},
+	"sf23azo8tfp8e7xo": {
+		"definition": "beastmaster:pet_health+2",
+		"x": 0,
+		"y": 96,
+		"root": false
+	}
+}

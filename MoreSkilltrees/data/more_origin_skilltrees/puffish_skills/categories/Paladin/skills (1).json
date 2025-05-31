@@ -1,0 +1,152 @@
+{
+	"7f8iadyqs7t40lao": {
+		"definition": "paladin:health+2",
+		"x": 0,
+		"y": 512,
+		"root": false
+	},
+	"3t0mf38cxfgzahnw": {
+		"definition": "paladin:health+2",
+		"x": 0,
+		"y": -512,
+		"root": false
+	},
+	"1ktdsq3tf69ubzux": {
+		"definition": "paladin:health+2",
+		"x": 224,
+		"y": -256,
+		"root": false
+	},
+	"grenp21y0c9xdxct": {
+		"definition": "paladin:health+2",
+		"x": -224,
+		"y": -256,
+		"root": false
+	},
+	"4rwv6svsfav7z0gf": {
+		"definition": "paladin:health+2",
+		"x": 0,
+		"y": -64,
+		"root": false
+	},
+	"3w12qwxfmb6m6tz8": {
+		"definition": "paladin:attack+3%",
+		"x": -64,
+		"y": 416,
+		"root": false
+	},
+	"t98fx6nppimtub1z": {
+		"definition": "paladin:attack+3%",
+		"x": 64,
+		"y": 416,
+		"root": false
+	},
+	"a6k86iprgz73563w": {
+		"definition": "paladin:attack+3%",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"8snbkc0e3nz7cl1n": {
+		"definition": "paladin:attack+3%",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"kd2dvbh5hv123x1x": {
+		"definition": "paladin:attack+3%",
+		"x": -128,
+		"y": -288,
+		"root": false
+	},
+	"cdxu63x7mnihyi70": {
+		"definition": "paladin:attack+3%",
+		"x": 128,
+		"y": -288,
+		"root": false
+	},
+	"s7ia1sxlrrjbqhi3": {
+		"definition": "paladin:armor+2",
+		"x": -192,
+		"y": -320,
+		"root": false
+	},
+	"in8p64bxt65bz1wl": {
+		"definition": "paladin:armor+2",
+		"x": -192,
+		"y": -192,
+		"root": false
+	},
+	"h1ge26o4l5q8umdc": {
+		"definition": "paladin:armor+2",
+		"x": 192,
+		"y": -192,
+		"root": false
+	},
+	"jc1e1z3zfgf0s9pz": {
+		"definition": "paladin:armor+2",
+		"x": 192,
+		"y": -320,
+		"root": false
+	},
+	"bdwnc4wte7zi7xpa": {
+		"definition": "paladin:armor+2",
+		"x": -32,
+		"y": -224,
+		"root": false
+	},
+	"wsx26htfme2mjvbp": {
+		"definition": "paladin:armor+2",
+		"x": 32,
+		"y": -224,
+		"root": false
+	},
+	"5uok6o3jmeg1vf34": {
+		"definition": "paladin:armor+2",
+		"x": 64,
+		"y": -480,
+		"root": false
+	},
+	"r8s00pwf2q44n7on": {
+		"definition": "paladin:armor+2",
+		"x": -64,
+		"y": -480,
+		"root": false
+	},
+	"a0pv1dj3eqgpyvck": {
+		"definition": "paladin:attack+3%",
+		"x": -32,
+		"y": -416,
+		"root": false
+	},
+	"8msvsnw58m9nv9zy": {
+		"definition": "paladin:attack+3%",
+		"x": 32,
+		"y": -416,
+		"root": false
+	},
+	"6oydb2zn87zedq59": {
+		"definition": "paladin:attack+3%",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"yi8hmfiwuw4m333m": {
+		"definition": "paladin:attack+3%",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"wj4az3tipdlilcuq": {
+		"definition": "paladin:armor+2",
+		"x": -64,
+		"y": 160,
+		"root": false
+	},
+	"csr24lifpkby78mx": {
+		"definition": "paladin:armor+2",
+		"x": 64,
+		"y": 160,
+		"root": false
+	}
+}

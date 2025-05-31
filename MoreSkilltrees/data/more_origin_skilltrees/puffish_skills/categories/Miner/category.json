@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": false,
+	"title": "Miner",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "iron_pickaxe"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

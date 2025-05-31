@@ -1,0 +1,10 @@
+{
+	"unlocked_by_default": false,
+	"title": "Blacksmite",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "anvil"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"

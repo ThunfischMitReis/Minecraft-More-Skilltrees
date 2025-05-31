@@ -1,0 +1,11 @@
+{
+	"unlocked_by_default": false,
+	"title": "Cook",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "steak"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}
