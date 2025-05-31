@@ -1,4 +1,5 @@
 {
+	"unlocked_by_default": false,
 	"title": "Cook",
 	"icon": {
 		"type": "item",
