@@ -1,0 +1,10 @@
+modLoader="lowcodefml"
+loaderVersion="[1,)"
+license="Unlicense"
+
+[[mods]]
+modId="more_origin_skilltrees"
+version="1.0"
+displayName="More Origin Skilltrees"
+description="A Mod that adds more Skilltrees from Pufferfish's Skills for Origins"
+authors="Pufferfish's Template Generator"
