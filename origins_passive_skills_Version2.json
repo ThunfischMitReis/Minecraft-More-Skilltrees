@@ -1,0 +1,662 @@
+{
+  "human:heart+2": {
+    "title": "+1 Heart",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "human:move_speed+5%": {
+    "title": "+5% Movement Speed",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "human:exp+5%": {
+    "title": "+5% XP Gain",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "experience_bottle"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "experience_gain",
+          "value": 0.05,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "avian:speed+15%": {
+    "title": "+15% Movement Speed",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.15,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "avian:fall_damage-100%": {
+    "title": "No Fall Damage",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "slow_falling"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "fall_damage_reduction",
+          "value": 1.0,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "avian:jump+10%": {
+    "title": "+10% Jump Height",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "jump_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.jump_strength",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "c0vxqqn9o9q2wd6m"
+    }
+  },
+  "arachnid:climb_speed+15%": {
+    "title": "+15% Climbing Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "string"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "climbing_speed",
+          "value": 0.15,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "arachnid:fist_damage+10%": {
+    "title": "+10% Fist Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "spider_eye"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "fist_damage",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "c0vxqqn9o9q2wd6m"
+    }
+  },
+  "arachnid:night_vision+10%": {
+    "title": "+10% Night Vision Range",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "night_vision"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "night_vision",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "elytrian:elytra_speed+20%": {
+    "title": "+20% Elytra Flight Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "elytra"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "elytra_flight_speed",
+          "value": 0.20,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "elytrian:air_speed+10%": {
+    "title": "+10% Air Movement Speed",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "air_movement_speed",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "elytrian:fall_damage-50%": {
+    "title": "-50% Fall Damage",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "slow_falling"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "fall_damage_reduction",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "shulk:armor+4": {
+    "title": "+4 Armor",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "shulker_box"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.armor",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "shulk:heart+4": {
+    "title": "+2 Hearts",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "shulk:knockback_resist+10%": {
+    "title": "+10% Knockback Resistance",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.knockback_resistance",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "feline:speed+20%": {
+    "title": "+20% Movement Speed",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "speed"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 0.20,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "feline:fall_damage-100%": {
+    "title": "No Fall Damage",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "slow_falling"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "fall_damage_reduction",
+          "value": 1.0,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "feline:evade+10%": {
+    "title": "+10% Dodge Chance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "rabbit_foot"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "dodge_chance",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "c0vxqqn9o9q2wd6m"
+    }
+  },
+  "enderian:heart+4": {
+    "title": "+2 Hearts",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "enderian:magic_resist+15%": {
+    "title": "+15% Magic Resistance",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "resistance"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "magic_resistance",
+          "value": 0.15,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "enderian:nether_speed+10%": {
+    "title": "+10% Speed in Nether/End",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "ender_pearl"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "nether_end_speed",
+          "value": 0.10,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "c0vxqqn9o9q2wd6m"
+    }
+  },
+  "merling:swim_speed+50%": {
+    "title": "+50% Swim Speed",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "dolphins_grace"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.swim_speed",
+          "value": 0.5,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "merling:underwater_mine+15%": {
+    "title": "+15% Underwater Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "prismarine_crystals"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "underwater_mining_speed",
+          "value": 0.15,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "merling:underwater_attack+10%": {
+    "title": "+10% Underwater Attack Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "trident"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "underwater_attack_damage",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "c0vxqqn9o9q2wd6m"
+    }
+  },
+  "phantom:move_speed_night+10%": {
+    "title": "+10% Speed at Night",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "invisibility"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "night_movement_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "phantom:attack_night+10%": {
+    "title": "+10% Attack Damage at Night",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "strength"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "night_attack_damage",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "phantom:heart+2": {
+    "title": "+1 Heart",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  },
+  "blazeborn:fire_resist+100%": {
+    "title": "Fire & Lava Immunity",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "magma_cream"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "fire_resistance",
+          "value": 1.0,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "pr9lb8zficpn00nh"
+    }
+  },
+  "blazeborn:nether_speed+10%": {
+    "title": "+10% Speed in Nether",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "blaze_powder"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "nether_movement_speed",
+          "value": 0.1,
+          "operation": "multiply_total"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "yixviwrixn2dyyc0"
+    }
+  },
+  "blazeborn:heart+6": {
+    "title": "+3 Hearts",
+    "icon": {
+      "type": "effect",
+      "data": {
+        "effect": "health_boost"
+      }
+    },
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ],
+    "metadata": {
+      "icon": "aqpgy4yctpp4i3lw"
+    }
+  }
+}
