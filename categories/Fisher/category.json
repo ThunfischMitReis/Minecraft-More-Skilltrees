@@ -1,4 +1,5 @@
 {
+	"unlocked_by_default": false,
 	"title": "Fisher",
 	"icon": {
 		"type": "item",
