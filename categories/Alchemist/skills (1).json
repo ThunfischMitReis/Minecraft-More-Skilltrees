@@ -1,0 +1,152 @@
+{
+	"csm1hu5vrao0vhk2": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": 32,
+		"y": -352,
+		"root": false
+	},
+	"cyg5k4dyp86zitvn": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": -32,
+		"y": -352,
+		"root": false
+	},
+	"k68aqfwy7mea52k8": {
+		"definition": "alchemist:potion_power+10%",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"impyypa2b4ck5xe0": {
+		"definition": "alchemist:potion_power+10%",
+		"x": -192,
+		"y": -224,
+		"root": false
+	},
+	"x4ln2cbz5fzpokko": {
+		"definition": "alchemist:potion_power+10%",
+		"x": 192,
+		"y": -224,
+		"root": false
+	},
+	"aauyqspimvwfd5xb": {
+		"definition": "alchemist:potion_power+10%",
+		"x": -256,
+		"y": 256,
+		"root": false
+	},
+	"kuouu2vxtfwlwx0u": {
+		"definition": "alchemist:potion_power+10%",
+		"x": 256,
+		"y": 256,
+		"root": false
+	},
+	"obr9f2ij0udfke0j": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": 32,
+		"y": -288,
+		"root": false
+	},
+	"n09rodg8syg9em5e": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": -32,
+		"y": -288,
+		"root": false
+	},
+	"n8ch9u7j4nyizkdq": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": 32,
+		"y": -224,
+		"root": false
+	},
+	"xda53namw15kk6wk": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": -32,
+		"y": -224,
+		"root": false
+	},
+	"fyfdh4b6y4i8tzww": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": -192,
+		"y": -288,
+		"root": false
+	},
+	"kof2r634ybe7nile": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": -128,
+		"y": -224,
+		"root": false
+	},
+	"dxwarxb6xiv2dswq": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": -192,
+		"y": -192,
+		"root": false
+	},
+	"zvgs2o9pqy3fvzaq": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": 128,
+		"y": -224,
+		"root": false
+	},
+	"yzxb2o1g223lextr": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": 192,
+		"y": -288,
+		"root": false
+	},
+	"3g46bexo1xk5p0ze": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": 192,
+		"y": -192,
+		"root": false
+	},
+	"a4m7of7xma1wkaok": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": -32,
+		"y": -128,
+		"root": false
+	},
+	"48nkt7i3s0g44tq2": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": -96,
+		"y": 32,
+		"root": false
+	},
+	"8ceb8zxjmh70uxm2": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": -96,
+		"y": 192,
+		"root": false
+	},
+	"c3w1fv29mvnulffs": {
+		"definition": "alchemist:brew_speed+10%",
+		"x": -96,
+		"y": 256,
+		"root": false
+	},
+	"1lfgjiu3q6uitqx0": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": 32,
+		"y": -128,
+		"root": false
+	},
+	"mqumgpe5ufqyxa7r": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": 96,
+		"y": 32,
+		"root": false
+	},
+	"4ycnhim3m0xrplr2": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": 96,
+		"y": 192,
+		"root": false
+	},
+	"y9qreqxsm8c8n18m": {
+		"definition": "alchemist:potion_duration+10%",
+		"x": 96,
+		"y": 256,
+		"root": false
+	}
+}

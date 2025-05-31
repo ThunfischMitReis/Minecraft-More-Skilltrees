@@ -1,0 +1,9 @@
+{
+	"title": "Warrior",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "iron_axe"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"

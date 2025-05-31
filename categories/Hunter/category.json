@@ -1,0 +1,10 @@
+{
+	"title": "Hunter",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "bone"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

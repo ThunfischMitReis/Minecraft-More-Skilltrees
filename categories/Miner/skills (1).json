@@ -1,0 +1,152 @@
+{
+	"ok4qkwe1nvh7x1x9": {
+		"definition": "miner:health+2",
+		"x": 352,
+		"y": -352,
+		"root": false
+	},
+	"0gi4cd8qg2t1f1dv": {
+		"definition": "miner:health+2",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"79zrxuer5l4bo0sg": {
+		"definition": "miner:health+2",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"8ulu2kad5fh0n5sr": {
+		"definition": "miner:health+2",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"dluigqrhxaxkncdl": {
+		"definition": "miner:health+2",
+		"x": -384,
+		"y": 384,
+		"root": false
+	},
+	"2tm5rax87quvrayr": {
+		"definition": "miner:exp_ores+15%",
+		"x": 288,
+		"y": -320,
+		"root": false
+	},
+	"n03llreze0zfdesq": {
+		"definition": "miner:exp_ores+15%",
+		"x": 224,
+		"y": -352,
+		"root": false
+	},
+	"hj7br8shq07tyq3a": {
+		"definition": "miner:exp_ores+15%",
+		"x": 320,
+		"y": -288,
+		"root": false
+	},
+	"z4wbml4ryi5tocu0": {
+		"definition": "miner:exp_ores+15%",
+		"x": 352,
+		"y": -224,
+		"root": false
+	},
+	"v17gz5ma7m6lsiwl": {
+		"definition": "miner:exp_ores+15%",
+		"x": 352,
+		"y": -32,
+		"root": false
+	},
+	"oyitqgn7ru5f7g9l": {
+		"definition": "miner:exp_ores+15%",
+		"x": 32,
+		"y": -352,
+		"root": false
+	},
+	"682c3spdet3q45v6": {
+		"definition": "miner:exp_ores+15%",
+		"x": 288,
+		"y": -32,
+		"root": false
+	},
+	"jv4gssape201k0wg": {
+		"definition": "miner:exp_ores+15%",
+		"x": 32,
+		"y": -288,
+		"root": false
+	},
+	"swkary6y8rmmj0dv": {
+		"definition": "miner:exp_ores+15%",
+		"x": 224,
+		"y": -288,
+		"root": false
+	},
+	"e06ucx7msnq5p70e": {
+		"definition": "miner:exp_ores+15%",
+		"x": 288,
+		"y": -224,
+		"root": false
+	},
+	"iyxa6105y1afs2g1": {
+		"definition": "miner:mining_speed+5%",
+		"x": -384,
+		"y": 320,
+		"root": false
+	},
+	"3veeos2741cus6uc": {
+		"definition": "miner:mining_speed+5%",
+		"x": -320,
+		"y": 384,
+		"root": false
+	},
+	"61bnpage4ky69qlq": {
+		"definition": "miner:mining_speed+5%",
+		"x": -352,
+		"y": 320,
+		"root": false
+	},
+	"nzhl8i2cvcycl6z4": {
+		"definition": "miner:mining_speed+5%",
+		"x": -320,
+		"y": 352,
+		"root": false
+	},
+	"ydnycuvs1upciuk7": {
+		"definition": "miner:mining_speed+5%",
+		"x": -32,
+		"y": 0,
+		"root": false
+	},
+	"mtq62uw4oq3kqtzn": {
+		"definition": "miner:mining_speed+5%",
+		"x": 0,
+		"y": 32,
+		"root": false
+	},
+	"mmi2qrw1xna9iqvw": {
+		"definition": "miner:mining_speed+5%",
+		"x": 192,
+		"y": -224,
+		"root": false
+	},
+	"l3bi79xfoq6c2d99": {
+		"definition": "miner:mining_speed+5%",
+		"x": 224,
+		"y": -192,
+		"root": false
+	},
+	"motl3bkmao0kw5x8": {
+		"definition": "miner:mining_speed+5%",
+		"x": 224,
+		"y": -320,
+		"root": false
+	},
+	"gpensuez00hhgxdc": {
+		"definition": "miner:mining_speed+5%",
+		"x": 320,
+		"y": -224,
+		"root": false
+	}
+}

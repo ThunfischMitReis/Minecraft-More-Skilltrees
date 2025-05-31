@@ -1,0 +1,10 @@
+{
+	"title": "Example",
+	"icon": {
+		"type": "effect",
+		"data": {
+			"effect": "health_boost"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

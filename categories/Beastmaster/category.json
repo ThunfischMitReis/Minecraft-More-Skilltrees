@@ -1,0 +1,10 @@
+{
+	"title": "Beastmaster",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "goat_horn"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

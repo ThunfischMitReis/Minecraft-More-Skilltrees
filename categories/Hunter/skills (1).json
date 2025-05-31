@@ -1,0 +1,152 @@
+{
+	"ogz8uzbrdbqot3f7": {
+		"definition": "hunter:mob_loot+10%",
+		"x": -32,
+		"y": -96,
+		"root": false
+	},
+	"mrsrb7thebx36hgh": {
+		"definition": "hunter:mob_loot+10%",
+		"x": 160,
+		"y": -96,
+		"root": false
+	},
+	"h0zjhb5mzubiuvmr": {
+		"definition": "hunter:mob_loot+10%",
+		"x": 384,
+		"y": 0,
+		"root": false
+	},
+	"5precfs34p7adpbr": {
+		"definition": "hunter:mob_loot+10%",
+		"x": -64,
+		"y": 64,
+		"root": false
+	},
+	"ifi05h359mvu8v83": {
+		"definition": "hunter:mob_loot+10%",
+		"x": -384,
+		"y": 96,
+		"root": false
+	},
+	"qymf5xe1ib4ur1b4": {
+		"definition": "hunter:attack+3%",
+		"x": -384,
+		"y": 128,
+		"root": false
+	},
+	"gx4mjyxlctp44g2w": {
+		"definition": "hunter:attack+3%",
+		"x": -384,
+		"y": 32,
+		"root": false
+	},
+	"kq9svzn12cvpfkks": {
+		"definition": "hunter:attack+3%",
+		"x": -288,
+		"y": 128,
+		"root": false
+	},
+	"e8572hhgbf4e5dxg": {
+		"definition": "hunter:attack+3%",
+		"x": -160,
+		"y": 32,
+		"root": false
+	},
+	"9w5scz5dbq014bgx": {
+		"definition": "hunter:attack+3%",
+		"x": -96,
+		"y": 64,
+		"root": false
+	},
+	"e754my84kzbfjlqf": {
+		"definition": "hunter:attack+3%",
+		"x": -96,
+		"y": 96,
+		"root": false
+	},
+	"bi56debf7yv1idw8": {
+		"definition": "hunter:attack+3%",
+		"x": -32,
+		"y": 96,
+		"root": false
+	},
+	"iwb74ufpa9812ycu": {
+		"definition": "hunter:attack+3%",
+		"x": 0,
+		"y": 32,
+		"root": false
+	},
+	"j31zg4azem5x7kdj": {
+		"definition": "hunter:attack+3%",
+		"x": 128,
+		"y": 32,
+		"root": false
+	},
+	"58c177n9hob32maw": {
+		"definition": "hunter:attack+3%",
+		"x": 288,
+		"y": 32,
+		"root": false
+	},
+	"lmmv9n1qc12te9ui": {
+		"definition": "hunter:bow_damage+3%",
+		"x": -288,
+		"y": 32,
+		"root": false
+	},
+	"t09ttuy9kx9e8ivw": {
+		"definition": "hunter:bow_damage+3%",
+		"x": -192,
+		"y": -32,
+		"root": false
+	},
+	"59i0cvz4r7vo060o": {
+		"definition": "hunter:bow_damage+3%",
+		"x": -32,
+		"y": -32,
+		"root": false
+	},
+	"qfci6vivhrevl3gm": {
+		"definition": "hunter:bow_damage+3%",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"k3p0qira6qt3wf0k": {
+		"definition": "hunter:bow_damage+3%",
+		"x": 160,
+		"y": -64,
+		"root": false
+	},
+	"8ngcs9ioyaje97l1": {
+		"definition": "hunter:bow_damage+3%",
+		"x": 160,
+		"y": -32,
+		"root": false
+	},
+	"ngq2im8i64qcqmi8": {
+		"definition": "hunter:bow_damage+3%",
+		"x": 384,
+		"y": -32,
+		"root": false
+	},
+	"ljn35v50t7ci11xu": {
+		"definition": "hunter:bow_damage+3%",
+		"x": 384,
+		"y": 32,
+		"root": false
+	},
+	"gmbz6n1obdzcif6z": {
+		"definition": "hunter:bow_damage+3%",
+		"x": -96,
+		"y": -96,
+		"root": false
+	},
+	"w343lqx3f5npssjg": {
+		"definition": "hunter:bow_damage+3%",
+		"x": 224,
+		"y": -96,
+		"root": false
+	}
+}

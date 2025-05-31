@@ -1,0 +1,10 @@
+{
+	"title": "Merchant",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "emerald"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

@@ -1,0 +1,10 @@
+{
+	"title": "Barde",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "note_block"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

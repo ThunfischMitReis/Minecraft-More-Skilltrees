@@ -1,0 +1,10 @@
+{
+	"title": "Tank",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "shield"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

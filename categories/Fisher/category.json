@@ -1,0 +1,10 @@
+{
+	"title": "Fisher",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "raw_cod"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

@@ -1,0 +1,10 @@
+{
+	"title": "Wizzard",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "stick"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

@@ -1,0 +1,152 @@
+{
+	"e0xxhonrygh16bcg": {
+		"definition": "cleric:healing+7%",
+		"x": 0,
+		"y": 384,
+		"root": false
+	},
+	"incvelyd8sj968fs": {
+		"definition": "cleric:healing+7%",
+		"x": -224,
+		"y": 160,
+		"root": false
+	},
+	"kju6e0rf4qhpqwtr": {
+		"definition": "cleric:healing+7%",
+		"x": 224,
+		"y": 160,
+		"root": false
+	},
+	"4prq0qksm3y2mean": {
+		"definition": "cleric:healing+7%",
+		"x": 0,
+		"y": 160,
+		"root": false
+	},
+	"86zlifsotcq9qe9m": {
+		"definition": "cleric:healing+7%",
+		"x": 0,
+		"y": -288,
+		"root": false
+	},
+	"g75v15150yeouj4r": {
+		"definition": "cleric:magic_resist+3%",
+		"x": -64,
+		"y": -256,
+		"root": false
+	},
+	"kelqm4d91h24jlaw": {
+		"definition": "cleric:magic_resist+3%",
+		"x": 64,
+		"y": -256,
+		"root": false
+	},
+	"w8bcnlzl9rbssmtb": {
+		"definition": "cleric:magic_resist+3%",
+		"x": -32,
+		"y": -160,
+		"root": false
+	},
+	"73oo8h292m7du2qr": {
+		"definition": "cleric:magic_resist+3%",
+		"x": 32,
+		"y": -160,
+		"root": false
+	},
+	"3xzcwctfhbde6w0e": {
+		"definition": "cleric:exp+3%",
+		"x": -64,
+		"y": -192,
+		"root": false
+	},
+	"hidahr0v8xomevgs": {
+		"definition": "cleric:exp+3%",
+		"x": 64,
+		"y": -192,
+		"root": false
+	},
+	"uln815irodcx7w9c": {
+		"definition": "cleric:exp+3%",
+		"x": 64,
+		"y": -32,
+		"root": false
+	},
+	"7mbiukllgfumap3m": {
+		"definition": "cleric:exp+3%",
+		"x": -64,
+		"y": -32,
+		"root": false
+	},
+	"hxbld2mic0buzqpc": {
+		"definition": "cleric:exp+3%",
+		"x": -128,
+		"y": 0,
+		"root": false
+	},
+	"8noaot8pnlddiaev": {
+		"definition": "cleric:exp+3%",
+		"x": -192,
+		"y": 64,
+		"root": false
+	},
+	"ag4w60b5d7uickqn": {
+		"definition": "cleric:exp+3%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"n0wmyptzbx9qzaqn": {
+		"definition": "cleric:exp+3%",
+		"x": 192,
+		"y": 64,
+		"root": false
+	},
+	"06rdyc63kih3pfnt": {
+		"definition": "cleric:exp+3%",
+		"x": -96,
+		"y": 352,
+		"root": false
+	},
+	"k7m7upvsbtrgwq4h": {
+		"definition": "cleric:exp+3%",
+		"x": 96,
+		"y": 352,
+		"root": false
+	},
+	"4m8or639it8s0cjk": {
+		"definition": "cleric:magic_resist+3%",
+		"x": -160,
+		"y": 320,
+		"root": false
+	},
+	"pmlqkyvo3oyt3la0": {
+		"definition": "cleric:magic_resist+3%",
+		"x": -192,
+		"y": 256,
+		"root": false
+	},
+	"29qhye0ididthdqb": {
+		"definition": "cleric:magic_resist+3%",
+		"x": 192,
+		"y": 256,
+		"root": false
+	},
+	"e3wurtyjq3vzx9be": {
+		"definition": "cleric:magic_resist+3%",
+		"x": 160,
+		"y": 320,
+		"root": false
+	},
+	"zkxy8pfh8o1g2et0": {
+		"definition": "cleric:magic_resist+3%",
+		"x": -32,
+		"y": -64,
+		"root": false
+	},
+	"4wq8y9ha81ha3mm0": {
+		"definition": "cleric:magic_resist+3%",
+		"x": 32,
+		"y": -64,
+		"root": false
+	}
+}

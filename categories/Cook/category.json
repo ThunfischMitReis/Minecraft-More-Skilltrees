@@ -1,0 +1,10 @@
+{
+	"title": "Cook",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "steak"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

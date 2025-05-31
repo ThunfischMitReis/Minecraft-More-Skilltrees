@@ -1,0 +1,10 @@
+{
+	"title": "Alchemist",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "brewing_stand"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"
+}

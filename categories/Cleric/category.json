@@ -1,0 +1,9 @@
+{
+	"title": "Cleric",
+	"icon": {
+		"type": "item",
+		"data": {
+			"item": "experience_bottle"
+		}
+	},
+	"background": "textures/gui/advancements/backgrounds/stone.png"

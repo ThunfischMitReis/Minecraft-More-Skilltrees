@@ -1,0 +1,152 @@
+{
+	"42po06t55jnkrun2": {
+		"definition": "bard:exp+7%",
+		"x": 32,
+		"y": -320,
+		"root": false
+	},
+	"oppf81oct4506rh9": {
+		"definition": "bard:exp+7%",
+		"x": 0,
+		"y": 384,
+		"root": false
+	},
+	"bw88k4vuzlcwx44i": {
+		"definition": "bard:exp+7%",
+		"x": 0,
+		"y": 96,
+		"root": false
+	},
+	"f4r4b8p9brg9vtr3": {
+		"definition": "bard:exp+7%",
+		"x": 0,
+		"y": -96,
+		"root": false
+	},
+	"4ld50hcs25kux0cd": {
+		"definition": "bard:exp+7%",
+		"x": -32,
+		"y": -320,
+		"root": false
+	},
+	"a2rlce22ptmaauql": {
+		"definition": "bard:villager_discount+3%",
+		"x": 96,
+		"y": 352,
+		"root": false
+	},
+	"wawc1lh74lvqhwkh": {
+		"definition": "bard:villager_discount+3%",
+		"x": 160,
+		"y": 256,
+		"root": false
+	},
+	"d40k9x3sr7eqkxkr": {
+		"definition": "bard:villager_discount+3%",
+		"x": 128,
+		"y": 64,
+		"root": false
+	},
+	"o2bc5324v5oyl1w3": {
+		"definition": "bard:villager_discount+3%",
+		"x": 64,
+		"y": 32,
+		"root": false
+	},
+	"m9kqfq3gleopfb6a": {
+		"definition": "bard:villager_discount+3%",
+		"x": -64,
+		"y": 32,
+		"root": false
+	},
+	"ecfzdcpuq25rrxs3": {
+		"definition": "bard:villager_discount+3%",
+		"x": -96,
+		"y": 352,
+		"root": false
+	},
+	"skk2ooa1p06wj8kz": {
+		"definition": "bard:villager_discount+3%",
+		"x": -96,
+		"y": -352,
+		"root": false
+	},
+	"j2y3tmegh48085vm": {
+		"definition": "bard:villager_discount+3%",
+		"x": 96,
+		"y": -352,
+		"root": false
+	},
+	"9j2olnrh6456m60t": {
+		"definition": "bard:villager_discount+3%",
+		"x": -160,
+		"y": 256,
+		"root": false
+	},
+	"kn450d28y83ppaf3": {
+		"definition": "bard:move_speed+5%",
+		"x": 0,
+		"y": -384,
+		"root": false
+	},
+	"f74opmpseys6vxx5": {
+		"definition": "bard:move_speed+5%",
+		"x": 0,
+		"y": -320,
+		"root": false
+	},
+	"5t0bh1krrpibyt7d": {
+		"definition": "bard:move_speed+5%",
+		"x": 32,
+		"y": 32,
+		"root": false
+	},
+	"k3wjp2c1m78ntvrg": {
+		"definition": "bard:move_speed+5%",
+		"x": -32,
+		"y": 32,
+		"root": false
+	},
+	"ecretm3xyxvgee9u": {
+		"definition": "bard:villager_discount+3%",
+		"x": -128,
+		"y": 64,
+		"root": false
+	},
+	"ql2y6uamfo1ytq36": {
+		"definition": "bard:move_speed+5%",
+		"x": -160,
+		"y": 160,
+		"root": false
+	},
+	"wlat30uh1cwv06ij": {
+		"definition": "bard:move_speed+5%",
+		"x": 160,
+		"y": 160,
+		"root": false
+	},
+	"4o05s4qijsg4ff5d": {
+		"definition": "bard:move_speed+5%",
+		"x": -32,
+		"y": 256,
+		"root": false
+	},
+	"xzpaltht3d80dul1": {
+		"definition": "bard:move_speed+5%",
+		"x": 32,
+		"y": 256,
+		"root": false
+	},
+	"aig618okpcqlma1e": {
+		"definition": "bard:move_speed+5%",
+		"x": 0,
+		"y": 224,
+		"root": false
+	},
+	"7dmk4m7mm76zt25q": {
+		"definition": "bard:move_speed+5%",
+		"x": 0,
+		"y": -32,
+		"root": false
+	}
+}

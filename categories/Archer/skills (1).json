@@ -1,0 +1,152 @@
+{
+	"tmfnx99uaa600nhz": {
+		"definition": "archer:bow_damage+7%",
+		"x": -160,
+		"y": -384,
+		"root": false
+	},
+	"qrtx7fye0dw033jj": {
+		"definition": "archer:bow_damage+7%",
+		"x": -160,
+		"y": 384,
+		"root": false
+	},
+	"64t0cro51zxnz783": {
+		"definition": "archer:range+10%",
+		"x": -160,
+		"y": 0,
+		"root": false
+	},
+	"vh1zdhknx7wjf2ha": {
+		"definition": "archer:range+10%",
+		"x": -352,
+		"y": -64,
+		"root": false
+	},
+	"9dvpn96d7w5t4bgg": {
+		"definition": "archer:bow_damage+7%",
+		"x": -320,
+		"y": 0,
+		"root": false
+	},
+	"nxayp6cqo049hahm": {
+		"definition": "archer:range+10%",
+		"x": -352,
+		"y": 64,
+		"root": false
+	},
+	"pk4644oxwywiji7w": {
+		"definition": "archer:bow_damage+7%",
+		"x": 320,
+		"y": 0,
+		"root": false
+	},
+	"pyuvpoyaswxlrozp": {
+		"definition": "archer:range+10%",
+		"x": 160,
+		"y": -32,
+		"root": false
+	},
+	"8ufz41j0rpemfk90": {
+		"definition": "archer:range+10%",
+		"x": 160,
+		"y": 32,
+		"root": false
+	},
+	"9wbpv82mciqzxyp0": {
+		"definition": "archer:range+10%",
+		"x": 224,
+		"y": 0,
+		"root": false
+	},
+	"uzd7tspuqui3ut68": {
+		"definition": "archer:bow_damage+7%",
+		"x": 0,
+		"y": 0,
+		"root": false
+	},
+	"tfvnayjkyezpzepm": {
+		"definition": "archer:draw_speed+10%",
+		"x": 0,
+		"y": -128,
+		"root": false
+	},
+	"rmugd8j7iaed1tyl": {
+		"definition": "archer:draw_speed+10%",
+		"x": -32,
+		"y": -224,
+		"root": false
+	},
+	"fa09a2d6ongwz5e6": {
+		"definition": "archer:draw_speed+10%",
+		"x": -96,
+		"y": -320,
+		"root": false
+	},
+	"2q9c4mp9tmc5fcha": {
+		"definition": "archer:draw_speed+10%",
+		"x": -32,
+		"y": 224,
+		"root": false
+	},
+	"6cjj2zhnpiqgssez": {
+		"definition": "archer:draw_speed+10%",
+		"x": -96,
+		"y": 320,
+		"root": false
+	},
+	"gqwg2tidn4dmn3l8": {
+		"definition": "archer:draw_speed+10%",
+		"x": 0,
+		"y": 128,
+		"root": false
+	},
+	"1tzd656r0vwn2p2z": {
+		"definition": "archer:draw_speed+10%",
+		"x": -160,
+		"y": 224,
+		"root": false
+	},
+	"gmqilzfegk54kguy": {
+		"definition": "archer:draw_speed+10%",
+		"x": -160,
+		"y": -224,
+		"root": false
+	},
+	"gm33qc2vmie3ut2q": {
+		"definition": "archer:draw_speed+10%",
+		"x": 128,
+		"y": 0,
+		"root": false
+	},
+	"bw0kgjt08jaj8trw": {
+		"definition": "archer:draw_speed+10%",
+		"x": -256,
+		"y": 0,
+		"root": false
+	},
+	"978uu9cdnn97dbzp": {
+		"definition": "archer:range+10%",
+		"x": -160,
+		"y": 320,
+		"root": false
+	},
+	"8fbm0hunxmypnn59": {
+		"definition": "archer:range+10%",
+		"x": -160,
+		"y": 128,
+		"root": false
+	},
+	"vco6zmt2e7pob0xi": {
+		"definition": "archer:range+10%",
+		"x": -160,
+		"y": -128,
+		"root": false
+	},
+	"iqyrl108hciixiv0": {
+		"definition": "archer:range+10%",
+		"x": -160,
+		"y": -320,
+		"root": false
+	}
+}
