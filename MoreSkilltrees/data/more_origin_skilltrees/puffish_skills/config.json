@@ -2,6 +2,23 @@
 	"version": 3,
 
 	"categories": [
-		"example"
+		"Alchemist"
+		"Archer"
+		"Bard"
+		"Beastmaster"
+		"Blacksmith"
+		"Cleric"
+		"Cook"
+		"Explorer"
+		"Farmer"
+		"Healer"
+		"Hunter"
+		"Merchant"
+		"Miner"
+		"Paladin"
+		"Rogue"
+		"Tank"
+		"Warrior"
+		"Wizard"
 	]
 }
